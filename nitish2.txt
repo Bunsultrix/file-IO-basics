@@ -1,0 +1,1 @@
+nitish is good boy , this file will run with file IO basics
